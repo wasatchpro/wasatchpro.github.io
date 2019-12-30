@@ -61,10 +61,10 @@ author:
   avatar : "/assets/images/bio-photo2.jpg.jpg"
   bio    : "Venture attorney based in the Wasatch Backcountry of Silicon Slopes Utah."
   links:
-      - label: "Instagram"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/dbhey"
-      - label: "Twitter"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dbheywood"
 
