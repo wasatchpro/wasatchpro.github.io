@@ -13,7 +13,7 @@ Here’s an email we’ll frequently receive from clients.
 
 <i>“We’ve got a term sheet signed (see attached) and we’d like you to prepare the docs. Can you help us with this deal?”</i>
 
-<b><u>If you plan to hire a lawyer for a transaction, <b><u>don’t wait until after the term sheet is signed to get your attorney involved.</b></u> From a cost-to-value perspective, negotiating the term sheet is one of the best ROI you can get from a good attorney. Here are a few reasons why.  
+<b> <u> If you plan to hire a lawyer for a transaction, <b><u>don’t wait until after the term sheet is signed to get your attorney involved. </b> </u> From a cost-to-value perspective, negotiating the term sheet is one of the best ROI you can get from a good attorney. Here are a few reasons why.  
 
 
 Mrs. Darling first heard of Peter when she was tidying up her children's minds. It is the nightly custom of every good mother after her children are asleep to rummage in their minds and put things straight for next morning, repacking into their proper places the many articles that have wandered during the day.
