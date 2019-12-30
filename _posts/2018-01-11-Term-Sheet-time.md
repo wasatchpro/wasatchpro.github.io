@@ -1,12 +1,12 @@
 ---
-title: "Post: Standard"
+title: "Term Sheet Time"
 excerpt_separator: "<!--more-->"
 categories:
   - Blog
 tags:
-  - Post Formats
-  - readability
-  - standard
+  - law
+  - term sheets
+  - venture terms
 ---
 
 Here’s an email we’ll frequently receive from clients. 
