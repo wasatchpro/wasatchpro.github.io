@@ -3,6 +3,11 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a venture attorney based in Utah’s beautiful Heber Valley. 
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Before law and business school, I worked in the real estate transaction advisory group at EY during the housing market crash of 2008. I later managed health care real estate development projects for a family company. 
+
+The material on this site is intended to be informational only and is based on my own opinions and experiences. It is not legal advice. The opinions that I express on this site are my own and do not reflect the opinions of Kunzler Bean & Adamson, PC.
+
+The information contained on this website is not a substitute for obtaining legal advice from an attorney. Each person’s situation is unique, and the information and materials on this website may or may not be applicable to your legal situation. You should not act or rely on any information on this website without seeking the advice of an attorney.
+
