@@ -13,7 +13,7 @@ Here’s an email we’ll frequently receive from clients.
 
 <i>“We’ve got a term sheet signed (see attached) and we’d like you to prepare the docs. Can you help us with this deal?”</i>
 
-If you plan to hire a lawyer for a transaction, don’t wait until after the term sheet is signed to get your attorney involved. 
+If you plan to hire a lawyer for a transaction, **don’t wait until after the term sheet is signed to get your attorney involved.** 
 
 From a cost-to-value perspective, negotiating the term sheet is one of the best ROI you can get from a good attorney. Here are a few reasons why.  
 
@@ -29,13 +29,13 @@ Experienced transaction attorneys are trained to identify issues and think about
 
 >Anti-Dilution: Standard broad based weighted average anti-dilution, with customary carve-outs, including such carve-outs approved by the Board.
 
-Assume you are an investor in the company. Does anything in in thebove give you hesitation? One point to consider – what do we mean when we reference "board approval?" 
+Assume you are an investor in the company. Does anything in in the above give you hesitation? One point to consider – what do we mean when we reference "approved by the Board?" 
 
-Since preferred investors usually do not control the board at the seed stage, investors likely want the board approval to include the preferred director(s) for certain decisions, especially where the carve-outs involve option pool increases or other equity grants to founders and employees. Company counsel may argue based on the language above that the carve-outs need only be approved by the board collectively, with no special director approval right since the investor did not address this in the term sheet. 
+Since preferred investors usually do not control the board at the seed stage, investors likely want board approvals for certain decisions to include the preferred director(s), especially where the carve-outs involve dilutitive option pool increases or other equity grants to founders and employees. Company counsel may argue based on the language above that these anti-dilution carve-outs need only be approved by the board collectively, with no special preferred director approval right since the investor did not address this in the term sheet. 
 
-I’m not saying that the company will win this argument, but the negotiations would be a lot smoother later on for the investor if this issue was already addressed at the term sheet stage – as the investor’s counsel, not only do you have to explain why you want this right, you also have to explain why your client apparently agreed to something else in the term sheet. To address this point, the investor may consider updating as follows:
+I’m not saying that the company will win this argument, but the negotiations of this point in the definitive documents would be a lot smoother later on for the investor if this issue was already addressed at the term sheet stage – as the investor’s counsel that inherited this term sheet, not only do you have to explain why you want this right, you also have to explain why your client apparently agreed to something else in the term sheet. To address this point, the investor may consider updating as follows:
 
->Anti-Dilution: Standard broad based weighted average anti-dilution, with customary carve-outs, including such carve-outs approved by the Board <b>including the Preferred Director</b>.
+>Anti-Dilution: Standard broad based weighted average anti-dilution, with customary carve-outs, including such carve-outs approved by the Board **including the Preferred Director.**
 
 ## An Attorney Can Protect You from Making Binding Commitments in the Term Sheet.
 
