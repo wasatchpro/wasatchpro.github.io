@@ -14,13 +14,13 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Silicon Yama
-subtitle: Startups "|" Law "|" Life in the Wasatch Backcountry
+subtitle: Startups | Law | Wasatch Backcountry Life
 email:
 description: >- # this means to ignore newlines until "baseurl:"
    Startups, Law, and Life in the Wasatch Backcountry of Silicon Slopes, Utah. 
 twitter_username: dbheywood
 github_username: 
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: "contrast"
 search: true
 
 # Build settings
@@ -63,17 +63,20 @@ author:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/dbheywood"
+      - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/dbhey"
   
 
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https://twitter.com/dbheywood"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/dbhey"
 
 defaults:
   # _posts
@@ -84,7 +87,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
   # _pages
@@ -101,3 +104,11 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+  
+  analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "UA-151728289-1"
+    anonymize_ip: false # default
+    
+    
