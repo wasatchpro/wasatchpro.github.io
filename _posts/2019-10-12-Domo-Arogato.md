@@ -7,7 +7,7 @@ tags:
   - law
   - Japan
   - etiquette
-  - SoftBanke
+  - SoftBank
   
 ---
 
